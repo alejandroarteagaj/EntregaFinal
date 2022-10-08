@@ -1,5 +1,5 @@
 syntax="proto3";
-
+##Hecho y adaptado por juan camilo giraldo y alejandro arteaga
 service Backend {
     rpc load_image (img_path) returns (image);
     rpc predict (img_path) returns (label);

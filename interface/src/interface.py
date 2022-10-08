@@ -1,4 +1,5 @@
 # import the necessary packages
+##Hecho y adaptado por juan camilo giraldo y alejandro arteaga
 from tkinter import Tk, Button, Label, filedialog
 import base64
 from tkinter import *

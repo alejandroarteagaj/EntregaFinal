@@ -1,3 +1,4 @@
+##Hecho y adaptado por juan camilo giraldo y alejandro arteaga
 from concurrent import futures
 import base64
 from turtle import width

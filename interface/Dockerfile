@@ -1,5 +1,5 @@
 FROM python:3.8
-
+##Hecho y adaptado por juan camilo giraldo y alejandro arteaga
 RUN apt-get update \
   && apt-get install -y \
     libgl1 \
